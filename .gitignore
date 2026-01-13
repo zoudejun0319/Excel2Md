@@ -8,7 +8,6 @@ env/
 venv/
 ENV/
 build/
-dist/
 *.egg-info/
 
 # Excel和生成的文件
